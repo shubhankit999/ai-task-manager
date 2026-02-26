@@ -264,3 +264,4 @@ This app shows a complete beginner-friendly example of:
 - Adding **drag-and-drop**, filters, sorting, and **localStorage persistence**.
 
 Feel free to tweak the UI, experiment with the code, and use this as a template for your own productivity tools.
+
